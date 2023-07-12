@@ -1,5 +1,5 @@
-unit = str(input("Input unit: minutes = m, hours = h"))
-num = int(input("Any number"))
+unit = str(input("Input unit: minutes = m, hours = h "))
+num = float(input("Any number"))
 temp = 0
 if unit == "h":
     temp = num
